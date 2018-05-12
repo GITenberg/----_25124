@@ -1,0 +1,33 @@
+_repo: '----_25124'
+_version: 0.1.0
+alternative_title: Lao Can You Ji
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Liu, E
+    aliases:
+    - 劉鄂
+    - Liu, O
+    - 劉鶚
+    birthdate: 1857
+    deathdate: 1909
+    gutenberg_agent_id: '28422'
+    url: http://www.gutenberg.org/2009/agents/28422
+    wikipedia: http://zh.wikipedia.org/wiki/%E5%88%98%E9%B9%97
+description: ''
+gutenberg_issued: '2008-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25124'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tai Mountains (China) -- Fiction'
+- !lcc 'PL'
+- !lcsh 'Chinese fiction -- Qing dynasty, 1644-1912'
+title: 老殘遊記
+url: http://www.gutenberg.org/ebooks/25124
